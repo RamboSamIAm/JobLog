@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joblog/static/css/main.1d0c2366.css",
+    "main.js": "/joblog/static/js/main.9d20ac1b.js",
+    "static/js/787.07371167.chunk.js": "/joblog/static/js/787.07371167.chunk.js",
+    "static/media/robot.mp3": "/joblog/static/media/robot.bba9cf962f6525473af1.mp3",
+    "index.html": "/joblog/index.html",
+    "main.1d0c2366.css.map": "/joblog/static/css/main.1d0c2366.css.map",
+    "main.9d20ac1b.js.map": "/joblog/static/js/main.9d20ac1b.js.map",
+    "787.07371167.chunk.js.map": "/joblog/static/js/787.07371167.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0c2366.css",
+    "static/js/main.9d20ac1b.js"
+  ]
+}
